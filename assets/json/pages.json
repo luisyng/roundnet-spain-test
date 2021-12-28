@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "title": "¿Quiénes somos?",
+        "content": "Pues mira nosotros somos Roundnet Spain, una asociación que antes llevaba _Manuel_.\n\nDirección: Avenida Paco, Getafe.\n\nNúmero de socios: muchos.\n\nSocios que pagan: cero.",
+        "createdAt": "2021-12-11T19:25:04.219Z",
+        "updatedAt": "2021-12-28T12:19:28.646Z",
+        "publishedAt": "2021-12-11T19:25:05.252Z"
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 1
+    }
+  }
+}

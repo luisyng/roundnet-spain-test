@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "name": "Valencia Roundnet Club",
+        "city": "Valencia",
+        "address": "Playa Malvarrosa",
+        "instagram": "valencia_roundnet_club",
+        "createdAt": "2021-12-11T20:00:37.008Z",
+        "updatedAt": "2021-12-27T16:44:24.915Z",
+        "publishedAt": "2021-12-11T20:00:37.697Z",
+        "description": "Jugamos en la Malvarrosa descalzos incluso en el más duro de los inviernos valencianos (15º). Tenemos muchos guiris.",
+        "logo": {
+          "data": {
+            "id": 11,
+            "attributes": {
+              "url": "/uploads/roundnet_valencia_a50e51dcba.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "name": "Roundnet Barcelona",
+        "city": "Barcelona",
+        "address": "Playa Barceloneta",
+        "instagram": "roundnetbarcelona",
+        "createdAt": "2021-12-11T20:20:30.077Z",
+        "updatedAt": "2021-12-27T16:42:55.599Z",
+        "publishedAt": "2021-12-11T20:20:30.661Z",
+        "description": "Quedamos todas las semanas en Montjuic y queremos que nos dejen el estadio gratis para hacer nuestros torneos.",
+        "logo": {
+          "data": {
+            "id": 9,
+            "attributes": {
+              "url": "/uploads/roundnet_barcelona_b8d1b2c9cc.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "name": "Roundnet Madrid",
+        "city": "Madrid",
+        "address": "Casa de Manuel",
+        "instagram": "roundnetmadrid",
+        "createdAt": "2021-12-15T15:54:32.856Z",
+        "updatedAt": "2021-12-27T16:44:11.164Z",
+        "publishedAt": "2021-12-15T15:54:33.541Z",
+        "description": "Somos de la capi, por lo que jugamos incluso en plena pandemia con incidencia de 15000. ",
+        "logo": {
+          "data": {
+            "id": 10,
+            "attributes": {
+              "url": "/uploads/roundnet_madrid_2c972d41fd.png"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 3
+    }
+  }
+}
